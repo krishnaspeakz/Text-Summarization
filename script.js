@@ -1,4 +1,3 @@
- <script>
         document.getElementById('summarize-button').addEventListener('click', function() {
             const inputText = document.getElementById('input-text').value;
             const summaryContainer = document.getElementById('summary-container');
@@ -56,5 +55,3 @@
 
         // Event listener for the dark mode toggle button
         document.getElementById('dark-mode-toggle').addEventListener('click', toggleDarkMode);
-    </script>
-    </script>
